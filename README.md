@@ -1,3 +1,3 @@
 # Breakout Ball Java
 
-This repository contains the code for a simple Java version of the popular game, Breakout Ball. The basic premise of the game is to use the left and right arrows to control the user paddle. The goal of the game is to hit the ball using the paddle to break the bricks.
+This repository contains the code for a simple Java version of the popular game, Breakout Ball. The basic premise of the game is to use the left and right arrows to control the user paddle. The goal of the game is to hit the ball using the paddle to break the bricks. The game will end once you break all the bricks or the user misses the ball with the paddle. If the user wants to play the game again, they can simply hit the enter button. And to make the game fun and exciting for the user, the x and y speeds of the ball will be randomly generated each time the game is played.
